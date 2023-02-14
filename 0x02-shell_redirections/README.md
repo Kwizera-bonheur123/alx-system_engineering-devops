@@ -1,1 +1,1 @@
-1-confused_smiley: script that display the 1-confused_smiley .
+script that Display the content of the /etc/passwd file.
